@@ -86,7 +86,7 @@ Programming Language: Python
 
 #### 1. Clone the repository:
 ```bash
-  git clone <repository-link>
+  git clone <https://github.com/sreevishak-v/E-commerce-project.git>
 ```
 #### 2. Run each task:
 
